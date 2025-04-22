@@ -1,0 +1,46 @@
+# Structure du repo "python-toza-expert"
+
+python-toza-expert/
+├── README.md
+├── semaine_1_fondamentaux/
+│   ├── jour1_types_variables/
+│   │   ├── exercices.py
+│   │   ├── solutions.py
+│   │   └── test_exercices.py
+│   ├── jour2_listes_tuples_dicos/
+│   ├── jour3_conditions_boucles/
+│   ├── jour4_fonctions/
+│   ├── jour5_fichiers_exceptions/
+│   ├── jour6_defis_logique/
+│   └── jour7_eval_semaine_1/
+├── semaine_2_poo_modules/
+│   ├── jour8_classes_objets/
+│   ├── jour9_heritage_encapsulation/
+│   ├── jour10_modules_packages/
+│   ├── jour11_comprehensions_generateurs/
+│   ├── jour12_exceptions_avancees/
+│   ├── jour13_defis_oop/
+│   └── jour14_eval_semaine_2/
+├── semaine_3_libs_algo/
+│   ├── jour15_collections_itertools/
+│   ├── jour16_datetime_regex_os/
+│   ├── jour17_json_pickle_csv/
+│   ├── jour18_algorithmes_classiques/
+│   ├── jour19_pep8_typage/
+│   ├── jour20_defis_pratiques/
+│   └── jour21_eval_semaine_3/
+├── semaine_4_tests_perf_avance/
+│   ├── jour22_tests_unitaires/
+│   ├── jour23_profiling_optimisation/
+│   ├── jour24_decorateurs_context/
+│   ├── jour25_programmation_fonctionnelle/
+│   ├── jour26_projet_console_app/
+│   ├── jour27_test_blanc_toza/
+│   └── jour28_bilan_astuces/
+├── outils/
+│   ├── cheatsheets/
+│   ├── git_commands.md
+│   ├── pep8.md
+│   └── ressources.md
+├── requirements.txt
+└── .gitignore
